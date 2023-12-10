@@ -1,6 +1,7 @@
 #include <utility>
 #include "CNetVars.h"
 #include "SDK.h"
+#include <string>
 
 CNetVars gNetVars;
 
